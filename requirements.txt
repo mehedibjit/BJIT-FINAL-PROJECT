@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+torch
+torchvision
+transformers
+faiss-cpu
+numpy
+pillow
+requests
+google-generativeai
+tenacity
+jinja2
+faiss-cpu
+python-multipart
+docker
